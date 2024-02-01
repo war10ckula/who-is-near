@@ -1,0 +1,13 @@
+{
+    "name": "Who-is-Near",
+    "options": {
+        "niceName": "Who-is-Near",
+        "guiName": "Who-is-Near"
+    },
+    "author": "ZC / seraphinush-gaming",
+    "description": "Показывает в чате кто из игроков находится рядом с вами и записывает в лог файл.",
+    "servers": [""],
+    "supportUrl": "",
+    "version": "RU v 31.04 - 92.04 - 100",
+    "disableAutoUpdate": false
+}
