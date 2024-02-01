@@ -1,7 +1,5 @@
-Выводит в консоль и сохраняет в логфайл , кто находится рядом.
-
 # Who-is-Near 
-## _Информация о золоте_
+## _Кто с вами рядом_
 ------
 
 <p align="center"><img src="https://raw.githubusercontent.com/war10ckula/who-is-near/main/screen/TERA_zzmnYVxfQ3.png" alt="Your image title" width="400"/>
