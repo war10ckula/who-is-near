@@ -6,7 +6,7 @@
     },
     "author": "ZC / seraphinush-gaming",
     "description": "Показывает в чате кто из игроков находится рядом с вами и записывает в лог файл.",
-    "servers": [""],
+    "servers": ["https://raw.githubusercontent.com/war10ckula/who-is-near/main/"],
     "supportUrl": "",
     "version": "RU v 31.04 - 92.04 - 100",
     "disableAutoUpdate": false
