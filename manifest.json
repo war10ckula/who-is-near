@@ -2,7 +2,7 @@
     "files": {
         "README.md": "472073731bd3233cf2e69a1735408d0b93364c4fe00a91eee238b8a57a3117e1",
         "index.js": "baa6c050509528dfaab30641fa51721cff7c4e539eae0294c185708bcd349068",
-        "module.json": "0c5037806e8c69e957fc8e75fab9013655a6ed0c55d63711bdd7e665b95ee1c0"
+        "module.json": "b836c9f99d6b4ad465d860379554c193441fd48bafe995c9ebd6909ad5627d3e"
     },
     "defs": {
         "S_DUNGEON_EVENT_MESSAGE": 2
