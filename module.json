@@ -1,13 +1,11 @@
 {
-    "name": "Who-is-Near",
-    "options": {
-        "niceName": "Who-is-Near",
-        "guiName": "Who-is-Near"
-    },
+    "disableAutoUpdate": false,
+    "name": "who-is-near",
     "author": "ZC / WAR100CK",
     "description": "Показывает в чате кто из игроков находится рядом с вами и записывает в лог файл.",
-    "servers": ["https://raw.githubusercontent.com/war10ckula/who-is-near/main/"],
-    "supportUrl": "",
-    "version": "RU v 31.04 - 92.04 - 100",
-    "disableAutoUpdate": false
+    "options": {
+        "niceName": "Who-is-Near",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/war10ckula/who-is-near/main/"]
 }
